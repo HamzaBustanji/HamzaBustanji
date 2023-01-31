@@ -1,5 +1,5 @@
 
-- 👋 Hi, my namw is Hamza
+- 👋 Hi, my name is Hamza
 - Welcome to my repository, 'enter freely and of your own will!' 🧛🏼
 - 🔭 I’m currently working on finishing my [Springboard](www.springboard.com) Data Science certification
 - 🌱 I’m currently learning Python, SQL, and ML 
